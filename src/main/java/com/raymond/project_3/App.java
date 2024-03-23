@@ -1,9 +1,6 @@
 package com.raymond.project_3;
 
-/**
- * Hello world!
- *
- */
+// Java code to illustrate Addition operator
 public class App 
 {
     public static void main( String[] args )
